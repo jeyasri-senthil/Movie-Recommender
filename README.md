@@ -28,4 +28,4 @@ This dataset consists of the following files:
 *The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag applications from 270,000 users on all the 45,000 movies in this dataset can be accessed here.*
 
 ### **Future Improvements**
-*There are many ways to improve this movie recommender. One possible improvement is to use more advanced recommendation techniques, such as matrix factorization or deep learning. Another improvement could be to incorporate additional features, such as movie genres or release year, to make more targeted recommendations.*
+*There are many ways to improve this movie recommender. One possible improvement is to use more advanced recommendation techniques, such as matrix factorization or deep learning. Another improvement could be to use additional features, such as movie genres or release year, to make more targeted recommendations.*
